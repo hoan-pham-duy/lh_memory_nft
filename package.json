@@ -1,0 +1,24 @@
+{
+  "name": "lh_memory_nft",
+  "version": "1.0.0",
+  "description": "Light Happy Memory - Memory NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoan-pham-duy/lh_memory_nft.git"
+  },
+  "keywords": [
+    "nft",
+    "memory_nft",
+    "lighthappy"
+  ],
+  "author": "Pham Duy Hoan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoan-pham-duy/lh_memory_nft/issues"
+  },
+  "homepage": "https://github.com/hoan-pham-duy/lh_memory_nft#readme"
+}
