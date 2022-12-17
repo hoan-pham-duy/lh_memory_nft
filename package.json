@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/hoan-pham-duy/lh_memory_nft/issues"
   },
-  "homepage": "https://github.com/hoan-pham-duy/lh_memory_nft#readme"
+  "homepage": "https://github.com/hoan-pham-duy/lh_memory_nft#readme",
+  "dependencies": {
+    "hardhat": "^2.12.3"
+  }
 }
