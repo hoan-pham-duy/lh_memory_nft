@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/hoan-pham-duy/lh_memory_nft#readme",
   "dependencies": {
+    "chai": "^4.3.7",
     "hardhat": "^2.12.3"
   },
   "devDependencies": {
