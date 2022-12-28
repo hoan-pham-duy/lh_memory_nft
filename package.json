@@ -22,11 +22,14 @@
   },
   "homepage": "https://github.com/hoan-pham-duy/lh_memory_nft#readme",
   "dependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
     "chai": "^4.3.7",
-    "ethers": "^5.7.2",
     "hardhat": "^2.12.3"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.7.2"
   }
 }
